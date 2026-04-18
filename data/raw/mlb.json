@@ -1,0 +1,9 @@
+[
+  {
+    "game_id": "mlb_001",
+    "home_team": "Yankees",
+    "away_team": "Red Sox",
+    "home_score": 5,
+    "away_score": 3
+  }
+]
