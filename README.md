@@ -1,10 +1,12 @@
-# Edge Equation
+# Edge Equation – Sample Ingestion + Normalization Pipeline
 
-Sports analytics engine.
+This repository contains a minimal, deterministic data pipeline used for testing
+the ingestion and normalization flow for the Edge Equation analytics system.
 
-- Multi-sport ingestion (MLB, NBA, NHL)
-- Normalized, audit-safe data layer
-- Daily picks engine
-- Graphics engine template
+The goal is to provide a clean, Chromebook‑friendly structure that can be expanded
+into the full production ingestion engine.
 
-Brand principle: **Facts. Not Feelings.**
+---
+
+## 📦 Repository Structure
+
